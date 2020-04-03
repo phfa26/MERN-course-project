@@ -10,6 +10,17 @@
 - You can build the same project doing the course and coding along with it. Just hit the link below.
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
 
+# Topics covered in the course
+
+> Building a Single Page Application with React.JS on the front-end and Node.js/Express on the back end.
+
+- Building custom **hooks, context, middlewares, models, utilities** and **components**;
+- Structuring routes with **react-router**;
+- User **authentication** and **authorization**, using **JWT** and **bcrypt**;
+- Connecting **Node.js/Express** and **Mongo DB** with **mongoose**;
+- App deployment on **Heroku** and **Google Firebase**;
+- And so on...
+
 # Tech-stack
 
 ##### This app was buit with the MERN stack
