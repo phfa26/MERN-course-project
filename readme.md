@@ -28,19 +28,19 @@
 
 ##### This app was buit with the MERN stack
 
-- React.JS;
-- Node.JS;
-- Express;
-- Mongo DB.
+- **React.JS**;
+- **Node.JS**;
+- **Express**;
+- **Mongo DB**.
 
 ##### Deployment
 
-- Google Firebase for the Front-end ;
-- Heroku Apps for the Back-end.
+- **Google Firebase** for the **Front-end** ;
+- **Heroku** Apps for the **Back-end**.
 
 ##### USED API's
 
-- Google Maps API.
+- **Google Maps** API.
 
 ---
 
