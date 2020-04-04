@@ -10,6 +10,9 @@
 - You can build the same project doing the course and coding along with it. Just hit the link below.
 - https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/
 
+> Course by: Academind
+> https://academind.com/
+
 # Topics covered in the course
 
 > Building a Single Page Application with React.JS on the front-end and Node.js/Express on the back end.
